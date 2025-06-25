@@ -6,8 +6,8 @@
         }
     },
     "require": {
-        "vaened/laravception": "^0.2.2",
         "vaened/laroute": "^1.0",
+        "vaened/laravception": "^0.2.2",
         "vaened/php-price-engine": "^3.0",
         "vaened/laravel-route-moduler": "^2.0",
         "vaened/swift-cart": "^1.0.0",
